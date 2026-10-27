@@ -400,16 +400,16 @@ The following providers are not listed as completed certification issuers in my 
 
 ## 08 / Coding Profiles
 
-Explore my public engineering work and projects below. Dedicated LeetCode, GeeksforGeeks, HackerRank, and CodeChef profile URLs have not been supplied, so I am not linking unverified accounts.
+Explore my public engineering work and projects below. Explore my coding practice profiles on LeetCode, HackerRank, and CodeChef. My GeeksforGeeks profile link has not been supplied.
 
 <div align="center">
 
 <a href="https://github.com/Hari-544"><img src="https://img.shields.io/badge/GitHub-Hari--544-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
 <a href="https://github.com/Hari-544?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile%20Link%20Pending-312E81?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/Harikrishna_44/"><img src="https://img.shields.io/badge/LeetCode-View%20Profile-312E81?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/></a>
 <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile%20Link%20Pending-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile%20Link%20Pending-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Profile%20Link%20Pending-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://www.hackerrank.com/profile/Hari_42528"><img src="https://img.shields.io/badge/HackerRank-View%20Profile-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile"/></a>
+<a href="https://www.codechef.com/users/hari_4252"><img src="https://img.shields.io/badge/CodeChef-View%20Profile-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile"/></a>
 
 </div>
 
