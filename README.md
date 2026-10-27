@@ -419,7 +419,7 @@ Explore my public engineering work and projects below. Dedicated LeetCode, Geeks
 
 <div align="center">
 
-<a href="https://github.com/Hari-544"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Hari-544&show_icons=true&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=C4B5FD&icon_color=818CF8&ring_color=8B5CF6&include_all_commits=true" alt="GitHub statistics"/></a>
+<a href="https://github.com/Hari-544"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Hari-544&show_icons=true&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=C4B5FD&icon_color=818CF8&ring_color=8B5CF6&cache_seconds=86400" alt="GitHub statistics"/></a>
 <a href="https://github.com/Hari-544"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-544&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=C4B5FD&langs_count=8" alt="Most used languages"/></a>
 
 <br/>
@@ -434,7 +434,7 @@ Explore my public engineering work and projects below. Dedicated LeetCode, Geeks
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hari-544&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%" alt="GitHub profile trophies"/></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hari-544&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%" alt="GitHub profile trophies"/></a>
 
 </div>
 
@@ -444,7 +444,7 @@ Explore my public engineering work and projects below. Dedicated LeetCode, Geeks
 
 <div align="center">
 
-<a href="https://github.com/Hari-544"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-544&bg_color=09090F&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/></a>
+<a href="https://github.com/Hari-544"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-544&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/></a>
 
 </div>
 
@@ -454,7 +454,9 @@ Explore my public engineering work and projects below. Dedicated LeetCode, Geeks
 
 <div align="center">
 
-<a href="https://github.com/Hari-544"><img src="https://raw.githubusercontent.com/Hari-544/Hari-544/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/></a>
+<a href="https://github.com/Hari-544"><img src="https://raw.githubusercontent.com/Hari-544/Hari-544/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/></a>
+
+<sub>The animation is generated automatically by GitHub Actions. The first run may take a few minutes.</sub>
 
 </div>
 
