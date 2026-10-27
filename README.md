@@ -434,7 +434,11 @@ Explore my public engineering work and projects below. Dedicated LeetCode, Geeks
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hari-544&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%" alt="GitHub profile trophies"/></a>
+<a href="https://github.com/Hari-544?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+<a href="https://github.com/Hari-544?tab=stars"><img src="https://img.shields.io/badge/Explore-Starred%20Projects-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="Explore starred projects"/></a>
+<a href="https://github.com/Hari-544?tab=achievements"><img src="https://img.shields.io/badge/GitHub-Profile%20Achievements-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile achievements"/></a>
+
+<sub>The third-party trophy image service is currently unreliable, so these links replace the broken image rather than showing a blank card.</sub>
 
 </div>
 
@@ -444,7 +448,10 @@ Explore my public engineering work and projects below. Dedicated LeetCode, Geeks
 
 <div align="center">
 
-<a href="https://github.com/Hari-544"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-544&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/></a>
+<a href="https://github.com/Hari-544?tab=overview"><img src="https://img.shields.io/badge/View-GitHub%20Contribution%20Activity-312E81?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contribution activity"/></a>
+<a href="https://github.com/Hari-544/graphs/contributors"><img src="https://img.shields.io/badge/View-Contributors%20Graph-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="View contributors graph"/></a>
+
+<sub>The public activity-graph image service is not reliably available. These direct GitHub links keep this section functional without a broken image.</sub>
 
 </div>
 
